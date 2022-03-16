@@ -1,6 +1,6 @@
 import {createContext, useState} from 'react'
 import fulldata from './fulldata'
-import { DashContext } from './DashContext';
+
 
 
 export const DasshContext = createContext()
